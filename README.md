@@ -9,6 +9,8 @@
 4.Mameli Alessio
 
 5.Monni Giacomo
+ > A standard organisation consists of different departments and corporate title that contribute to the mission and goals of company.
+    Let’s talk about the different departments and corporate title starting from the higher responsibility to the lower responsibility.
 
 6.Moricio Matteo
 
